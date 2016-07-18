@@ -1,5 +1,8 @@
 # apt-mirror
 
+[![Docker Stars](https://img.shields.io/docker/stars/gmitre/apt-mirror.svg)](https://hub.docker.com/r/gmitre/apt-mirror/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/gmitre/apt-mirror.svg)](https://hub.docker.com/r/gmitre/apt-mirror/)
+
 ## How to run ?
 
 ```
