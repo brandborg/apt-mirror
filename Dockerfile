@@ -1,5 +1,7 @@
 FROM ubuntu:14.04
 
+MAINTAINER Guilherme Mitre <gmitre@gmail.com>
+
 ENV MIRROR http://archive.ubuntu.com/ubuntu
 ENV SYNC_TIME 24h
 ENV WEBROOT /var/www/apt/
